@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Schmeckerdoodle
+- 👀 I’m interested in making video games
+- 🌱 I’m currently learning C#
